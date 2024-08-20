@@ -32,3 +32,11 @@ Sistem ini merupakan buah hasil dari pengembangan dan penelitian yang dilakukan 
 #include <Keypad.h>
 #include <Adafruit_MQTT.h>
 #include <Adafruit_MQTT_Client.h>
+
+![Screenshot 2024-06-29 at 22-45-35 EasyEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool](https://github.com/user-attachments/assets/8e3fe4ba-eede-415c-b24e-e19c189f6c6e)
+![Blok Diagram Perangkat(1) drawio](https://github.com/user-attachments/assets/d4061313-11c9-4778-bd08-c69df67d0785)
+![wiring_bb](https://github.com/user-attachments/assets/28f11874-fb7c-4715-8ba8-3787134c7cca)
+![Arsitektur Diagram Sistem IoT drawio](https://github.com/user-attachments/assets/ff8853ec-923f-4d99-8c64-3db523a3c28c)
+
+
+
