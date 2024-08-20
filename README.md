@@ -5,11 +5,8 @@ Sistem ini merupakan buah hasil dari pengembangan dan penelitian yang dilakukan 
 
 <img width="411" alt="wdefrgtgrfe" src="https://github.com/user-attachments/assets/b12d470b-72cf-4897-965d-4d77e9be4337">
 <img width="593" alt="efrgtrfe" src="https://github.com/user-attachments/assets/294d7db5-7c30-4441-852f-41e4c3fd4282">
-![efrgtyhhrtg](https://github.com/user-attachments/assets/0a009085-0711-4cac-866a-efa55dbd2b41)
-![wefrgthnhgb](https://github.com/user-attachments/assets/f7fdbfba-8e79-423c-9159-0e8d0f068f26)
-
-
-
+<img width="593" alt="efrgtrfe" src="https://github.com/user-attachments/assets/0a009085-0711-4cac-866a-efa55dbd2b41">
+<img width="593" alt="efrgtrfe" src="https://github.com/user-attachments/assets/f7fdbfba-8e79-423c-9159-0e8d0f068f26">
 
 ## Feature
 
